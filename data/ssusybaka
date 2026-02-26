@@ -1,0 +1,19 @@
+{
+    "id": 134423297,
+    "name": "ssusy baka",
+    "author": "silvergtr",
+    "creators": ["Szigmacsabi"],
+    "verifier": "Szigmacsabi",
+    "verification": "https://youtu.be/iDf8jlP7VnU?si=ZLK_PqHKWyRTrEC6",
+    "percentToQualify": 70,
+    "handcam": "Optional",
+    "FPS": "Any",
+    "records": [
+       {
+            "user": "silvergtr",
+            "link": "https://youtu.be/yVwJMWv8HCw",
+            "percent": 100,
+            "hz": 360
+       }
+    ]
+}
