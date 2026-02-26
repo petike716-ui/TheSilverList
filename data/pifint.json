@@ -1,0 +1,19 @@
+{
+    "id": 134420631,
+    "name": "pifint",
+    "author": "csokolate",
+    "creators": ["csokolate"],
+    "verifier": "csokolate",
+    "verification": "https://www.youtube.com/watch?v=dBd7kvQQBhc",
+    "percentToQualify": 60,
+    "handcam": "Optional",
+    "FPS": "Any",
+    "records": [
+       {
+            "user": "silvergtr",
+            "link": "https://youtu.be/wYSE3Iv9-Qw",
+            "percent": 100,
+            "hz": 360
+       }
+    ]
+}
