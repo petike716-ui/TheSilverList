@@ -9,8 +9,11 @@
     "handcam": "Optional",
     "FPS": "Any",
     "records": [
-        {
-            
-        }
+       {
+            "user": "Szigmacsabi",
+            "link": "https://youtu.be/XdNDN53HGV0",
+            "percent": 100,
+            "hz": 60
+       }
     ]
 }
