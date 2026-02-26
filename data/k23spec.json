@@ -1,0 +1,19 @@
+{
+    "id": 134414084,
+    "name": "k23spec",
+    "author": "tigris39",
+    "creators": ["tigris39"],
+    "verifier": "tigris39",
+    "verification": "https://medal.tv/games/geometry-dash/clips/mclgvIznf22GKCbJO?invite=cr-MSxyRFYsMjY5NDQ2OTAw",
+    "percentToQualify": 100,
+    "handcam": "Optional",
+    "FPS": "Any",
+    "records": [
+       {
+            "user": "silvergtr",
+            "link": "https://drive.google.com/file/d/1hhANtP-L1Jai2qiE81A2wJcyYiEguyA8/view?usp=sharing",
+            "percent": 100,
+            "hz": 360
+       }
+    ]
+}
