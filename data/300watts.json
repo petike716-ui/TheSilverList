@@ -1,7 +1,7 @@
 {
     "id": 134414084,
     "name": "300 watts",
-    "author": "LevelUploader",
+    "author": "silvergtr",
     "creators": ["silvergtr"],
     "verifier": "silvergtr",
     "verification": "https://youtu.be/X-WfyQwW7Tw",
@@ -10,10 +10,7 @@
     "FPS": "Any",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
+            
         }
     ]
 }
