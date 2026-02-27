@@ -1,0 +1,19 @@
+{
+    "id": 134471257,
+    "name": "Definition of spam",
+    "author": "silvergtr",
+    "creators": ["silvergtr"],
+    "verifier": "silvergtr",
+    "verification": "https://youtu.be/xexozLTXI2Y",
+    "percentToQualify": 50,
+    "handcam": "Optional",
+    "FPS": "Any",
+    "records": [
+       {
+            "user": "no_victors_yet",
+            "link": "https://youtu.be/xexozLTXI2Y",
+            "percent": 0,
+            "hz": 0
+       }
+    ]
+}
