@@ -1,0 +1,19 @@
+{
+    "id": 134471240,
+    "name": "silvaplinka",
+    "author": "csokolate",
+    "creators": ["csokolate"],
+    "verifier": "csokolate",
+    "verification": "https://www.youtube.com/watch?v=aj6pg6F6ujI",
+    "percentToQualify": 100,
+    "handcam": "Optional",
+    "FPS": "Any",
+    "records": [
+       {
+            "user": "silvergtr",
+            "link": "https://youtu.be/Tlqb1Mmq17Q",
+            "percent": 100,
+            "hz": 120
+       }
+    ]
+}
