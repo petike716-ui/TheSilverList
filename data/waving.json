@@ -10,10 +10,10 @@
     "FPS": "Any",
     "records": [
        {
-            "user": "test",
+            "user": "no_victors_yet",
             "link": "https://www.youtube.com/watch?v=RZCSDnqKt08",
-            "percent": 9999999,
-            "hz": 9999999
+            "percent": 0,
+            "hz": 0
        }
     ]
 }
