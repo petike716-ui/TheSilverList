@@ -1,0 +1,19 @@
+{
+    "id": 134414084,
+    "name": "Csabi Circles",
+    "author": "Szigmacsabi",
+    "creators": ["Szigmacsabi"],
+    "verifier": "Szigmacsabi",
+    "verification": "https://youtu.be/RKrsKdBo7FY",
+    "percentToQualify": 70,
+    "handcam": "Optional",
+    "FPS": "Any",
+    "records": [
+       {
+            "user": "silvergtr",
+            "link": "https://youtu.be/mHWf_IR1-ns",
+            "percent": 100,
+            "hz": 60
+       }
+    ]
+}
