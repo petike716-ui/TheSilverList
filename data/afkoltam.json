@@ -1,0 +1,19 @@
+{
+    "id": 135008675,
+    "name": "afkoltam",
+    "author": "silvergtr",
+    "creators": ["Tigris39"],
+    "verifier": "silvergtr",
+    "verification": "https://youtu.be/s3W7aAiHG5w",
+    "percentToQualify": 100,
+    "handcam": "Optional",
+    "FPS": "Any",
+    "records": [
+       {
+            "user": "no_victors_yet",
+            "link": "https://youtu.be/mHWf_IR1-ns",
+            "percent": 0,
+            "hz": 0
+       }
+    ]
+}
