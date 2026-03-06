@@ -1,0 +1,19 @@
+{
+    "id": 135007913,
+    "name": "Freddy man",
+    "author": "Szigmacsabi",
+    "creators": ["Szigmacsabi"],
+    "verifier": "Szigmacsabi",
+    "verification": "https://www.youtube.com/watch?v=8jqhx44zO7E",
+    "percentToQualify": 70,
+    "handcam": "Optional",
+    "FPS": "Any",
+    "records": [
+       {
+            "user": "no_victors_yet",
+            "link": "https://youtu.be/mHWf_IR1-ns",
+            "percent": 0,
+            "hz": 0
+       }
+    ]
+}
