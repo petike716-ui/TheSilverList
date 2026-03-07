@@ -1,0 +1,19 @@
+{
+    "id": 135101454,
+    "name": "the ultimate park",
+    "author": "Szigmacsabi",
+    "creators": ["Szigmacsabi"],
+    "verifier": "Szigmacsabi",
+    "verification": "https://www.youtube.com/watch?v=tCrLPI5NE8I",
+    "percentToQualify": 80,
+    "handcam": "Optional",
+    "FPS": "Any",
+    "records": [
+       {
+            "user": "no_victors_yet",
+            "link": "https://youtu.be/XdNDN53HGV0",
+            "percent": 0,
+            "hz": 0
+       }
+    ]
+}
