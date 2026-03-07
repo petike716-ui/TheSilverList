@@ -1,0 +1,19 @@
+{
+    "id": 135118111,
+    "name": "axe swinger",
+    "author": "silvergtr",
+    "creators": ["silvergtr"],
+    "verifier": "silvergtr",
+    "verification": "https://youtu.be/dFZw86MZfSg",
+    "percentToQualify": 75,
+    "handcam": "Optional",
+    "FPS": "Any",
+    "records": [
+       {
+            "user": "no_victors_yet",
+            "link": "https://youtu.be/XdNDN53HGV0",
+            "percent": 0,
+            "hz": 0
+       }
+    ]
+}
