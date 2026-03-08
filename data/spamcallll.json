@@ -1,0 +1,19 @@
+{
+    "id": 135211926,
+    "name": "spam callll",
+    "author": "Szigmacsabi",
+    "creators": ["Szigmacsabi"],
+    "verifier": "Szigmacsabi",
+    "verification": "https://youtu.be/0sp3mDAHI14",
+    "percentToQualify": 100,
+    "handcam": "Optional",
+    "FPS": "Any",
+    "records": [
+      {
+           "user": "silvergtr",
+           "link": "https://youtu.be/TF1r6oJsYhI",
+           "percent": 100,
+           "hz": 432
+       }
+    ]
+}
