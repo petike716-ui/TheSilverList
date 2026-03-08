@@ -1,0 +1,19 @@
+{
+    "id": 135209295,
+    "name": "ship",
+    "author": "Tigris39",
+    "creators": ["Tigris39"],
+    "verifier": "Tigris39",
+    "verification": "https://youtu.be/ehXYtI4dyj4",
+    "percentToQualify": 100,
+    "handcam": "Optional",
+    "FPS": "Any",
+    "records": [
+       {
+            "user": "silvergtr",
+            "link": "https://youtu.be/9GRR9LT5fdo",
+            "percent": 100,
+            "hz": 432
+       }
+    ]
+}
