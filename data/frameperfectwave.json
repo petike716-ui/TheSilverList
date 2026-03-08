@@ -1,0 +1,19 @@
+{
+    "id": 135213563,
+    "name": "frame perfect wave",
+    "author": "Szigmacsabi",
+    "creators": ["Szigmacsabi"],
+    "verifier": "Szigmacsabi",
+    "verification": "https://youtu.be/qLv0MmUA_HM?is=TrFadpf_04RfVZHr",
+    "percentToQualify": 100,
+    "handcam": "Optional",
+    "FPS": "Any",
+    "records": [
+       {
+           "user": "silvergtr",
+           "link": "https://youtu.be/cl0-f1wft_0",
+           "percent": 100,
+           "hz": 432
+       }
+    ]
+}
