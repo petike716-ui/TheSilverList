@@ -1,0 +1,19 @@
+{
+    "id": 135284696,
+    "name": "eat your vegetables",
+    "author": "silvergtr",
+    "creators": ["silvergtr"],
+    "verifier": "_X_Attila_X_",
+    "verification": "https://youtu.be/EsK-AIzDdA8",
+    "percentToQualify": 100,
+    "handcam": "Optional",
+    "FPS": "Any",
+    "records": [
+       {
+           "user": "no_victors_yet",
+           "link": "https://youtu.be/cl0-f1wft_0",
+           "percent": 0,
+           "hz": 0
+       }
+    ]
+}
