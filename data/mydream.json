@@ -1,0 +1,19 @@
+{
+    "id": 135287333,
+    "name": "my dream",
+    "author": "Szigmacsabi",
+    "creators": ["Szigmacsabi"],
+    "verifier": "Szigmacsabi",
+    "verification": "https://www.youtube.com/watch?v=dSHXulAnQno",
+    "percentToQualify": 80,
+    "handcam": "Optional",
+    "FPS": "Any",
+    "records": [
+       {
+           "user": "silvergtr",
+           "link": "https://youtu.be/QKpBlVgnAsg",
+           "percent": 100,
+           "hz": 432
+       }
+    ]
+}
