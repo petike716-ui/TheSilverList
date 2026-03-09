@@ -1,0 +1,19 @@
+{
+    "id": 135289772,
+    "name": "Easy",
+    "author": "Tigris39",
+    "creators": ["Tigris39"],
+    "verifier": "Tigris39",
+    "verification": "https://youtu.be/zCQzYHLFDb0",
+    "percentToQualify": 100,
+    "handcam": "Optional",
+    "FPS": "Any",
+    "records": [
+       {
+           "user": "silvergtr",
+           "link": "https://youtu.be/nnuCGvzwY5g",
+           "percent": 100,
+           "hz": 432
+       }
+    ]
+}
