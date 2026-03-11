@@ -1,0 +1,17 @@
+{
+    "id": 135216153,
+    "name": "super galaxy",
+    "author": "Szigmacsabi",
+    "creators": ["Szigmacsabi"],
+    "verifier": "Szigmacsabi",
+    "verification": "https://www.youtube.com/watch?v=OwHuXFiHT68",
+    "percentToQualify": 100,
+    "handcam": "Optional",
+    "FPS": "Any",
+    "records": [
+       {
+            "user": "silvergtr",
+            "link": "https://youtu.be/I46Hbs4An1I",
+            "percent": 100,
+            "hz": 480
+       },
