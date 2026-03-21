@@ -1,0 +1,19 @@
+{
+    "id": 136190952,
+    "name": "forgotten",
+    "author": "silvergtr",
+    "creators": ["silvergtr"],
+    "verifier": "silvergtr",
+    "verification": "https://youtu.be/DvLDG56oSnU",
+    "percentToQualify": 85,
+    "handcam": "Optional",
+    "FPS": "Any",
+    "records": [
+       {
+            "user": "no_victors_yet",
+            "link": "https://youtu.be/XdNDN53HGV0",
+            "percent": 0,
+            "hz": 0
+       }
+    ]
+}
