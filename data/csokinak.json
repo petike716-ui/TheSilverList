@@ -1,0 +1,19 @@
+{
+    "id": 136300772,
+    "name": "csokinak",
+    "author": "Szigmacsabi",
+    "creators": ["Szigmacsabi"],
+    "verifier": "Szigmacsabi",
+    "verification": "https://youtu.be/9OS-5oICyaU?is=1eQaHVGvene1r6JS",
+    "percentToQualify": 65,
+    "handcam": "Optional",
+    "FPS": "Any",
+    "records": [
+       {
+            "user": "silvergtr",
+            "link": "https://youtu.be/sjk5iz1qA1k",
+            "percent": 100,
+            "hz": 480
+       }
+    ]
+}
