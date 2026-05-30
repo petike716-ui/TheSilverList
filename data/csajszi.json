@@ -1,0 +1,19 @@
+{
+    "id": 141572654,
+    "name": "csajszi",
+    "author": "Szigmacsabi",
+    "creators": ["Szigmacsabi"],
+    "verifier": "Szigmacsabi",
+    "verification": "https://youtu.be/Tg1spJPCXF8",
+    "percentToQualify": 100,
+    "handcam": "Optional",
+    "FPS": "Any",
+    "records": [
+       {
+            "user": "silvergtr",
+            "link": "https://youtu.be/HK0rcF0mpbw",
+            "percent": 100,
+            "hz": 480
+       }
+    ]
+}
