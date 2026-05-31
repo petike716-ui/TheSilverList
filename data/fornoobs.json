@@ -1,0 +1,19 @@
+{
+    "id": 141615056,
+    "name": "for noobs",
+    "author": "Szigmacsabi",
+    "creators": ["Szigmacsabi"],
+    "verifier": "Szigmacsabi",
+    "verification": "https://youtu.be/dBQ4zXLCgvI",
+    "percentToQualify": 100,
+    "handcam": "Optional",
+    "FPS": "Any",
+    "records": [
+       {
+            "user": "silvergtr",
+            "link": "https://youtu.be/zJIuELEAW8k",
+            "percent": 100,
+            "hz": 480
+       }
+    ]
+}
