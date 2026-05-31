@@ -1,0 +1,19 @@
+{
+    "id": 141639345,
+    "name": "only spam",
+    "author": "Szigmacsabi",
+    "creators": ["Szigmacsabi"],
+    "verifier": "Szigmacsabi",
+    "verification": "https://youtu.be/cKUIqv3bQ8s",
+    "percentToQualify": 100,
+    "handcam": "Optional",
+    "FPS": "Any",
+    "records": [
+       {
+            "user": "silvergtr",
+            "link": "https://youtu.be/I4b_KFFHKFE",
+            "percent": 100,
+            "hz": 480
+       }
+    ]
+}
