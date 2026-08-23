@@ -1,0 +1,19 @@
+{
+    "id": 147562215,
+    "name": "szteroid mednessz",
+    "author": "silvergtr",
+    "creators": ["silvergtr"],
+    "verifier": "silvergtr",
+    "verification": "https://youtu.be/D7E8FccZfYc",
+    "percentToQualify": 100,
+    "handcam": "Optional",
+    "FPS": "Any",
+    "records": [
+       {
+            "user": "no_victors_yet",
+            "link": "https://youtu.be/XdNDN53HGV0",
+            "percent": 0,
+            "hz": 0
+       }
+    ]
+}
