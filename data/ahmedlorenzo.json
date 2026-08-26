@@ -1,0 +1,19 @@
+{
+    "id": 147766126,
+    "name": "ahmed lorenzo",
+    "author": "silvergtr",
+    "creators": ["silvergtr"],
+    "verifier": "silvergtr",
+    "verification": "https://youtu.be/7Sf4r39eDB0",
+    "percentToQualify": 100,
+    "handcam": "Optional",
+    "FPS": "Any",
+    "records": [
+       {
+            "user": "no_victors_yet",
+            "link": "https://youtu.be/XdNDN53HGV0",
+            "percent": 0,
+            "hz": 0
+       }
+    ]
+}
