@@ -1,0 +1,19 @@
+{
+    "id": 151395118,
+    "name": "fidget spinner",
+    "author": "silvergtr",
+    "creators": ["silvergtr"],
+    "verifier": "_X_Attila_X_",
+    "verification": "https://youtu.be/FN6amVclbJY",
+    "percentToQualify": 100,
+    "handcam": "Optional",
+    "FPS": "Any",
+    "records": [
+       {
+            "user": "silvergtr",
+            "link": "https://youtu.be/NBbWlgaDoz8",
+            "percent": 100,
+            "hz": 480
+       }
+    ]
+}
